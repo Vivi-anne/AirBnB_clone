@@ -1,5 +1,5 @@
 # AirBnB clone - The console
-![airbnb](C:\Users\HP\Downloads\airbnb.png)
+![airbnb](C:\Users\HP\Downloads\hbnb.png)
 
 ## Project Description
 This is the first part of the AirBnB clone project. 
