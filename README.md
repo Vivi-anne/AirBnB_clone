@@ -1,5 +1,5 @@
 # AirBnB clone - The console
-![airbnb](C:\Users\HP\Downloads\hbnb.png)
+![airbnb](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230514%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230514T214125Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=12e9c4b746d0d9bc8e469ef8bacadfcee50ffe5edf0b13ccbe034546f568f9b8)
 
 ## Project Description
 This is the first part of the AirBnB clone project. 
