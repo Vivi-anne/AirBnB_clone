@@ -6,7 +6,7 @@ from datetime import datetime
 
 
 class BaseModel:
-    """Represents the BaseModel of the HBnB project."""
+    """Represent the BaseModel of the HBnB project."""
 
     def __init__(self, *args, **kwargs):
         """Initialize a new BaseModel.
@@ -34,7 +34,7 @@ class BaseModel:
         models.storage.save()
 
     def to_dict(self):
-        """Return the dictionary of the BaseModel instance.
+        """Returns the dictionary of the BaseModel instance.
 
         Includes the key/value pair __class__ representing
         the class name of the object.

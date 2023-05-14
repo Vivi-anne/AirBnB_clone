@@ -7,8 +7,8 @@ class Place(BaseModel):
     """Represent a place.
 
     Attributes:
-        city_id (str): The City id.
-        user_id (str): The User id.
+        city_id (str): City id.
+        user_id (str): User id.
         name (str): The name of the place.
         description (str): The description of the place.
         number_rooms (int): The number of rooms of the place.
