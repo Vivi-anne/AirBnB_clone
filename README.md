@@ -1,5 +1,5 @@
 # AirBnB clone - The console
-![airbnb](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230514%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230514T214125Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=12e9c4b746d0d9bc8e469ef8bacadfcee50ffe5edf0b13ccbe034546f568f9b8)
+![airbnb](https://camo.githubusercontent.com/d8a348e1fceb92d45fa8981ac42a6223e454acefe89750896e80fd1287cab92b/68747470733a2f2f7777772e706e676974656d2e636f6d2f70696d67732f6d2f3133322d313332323132355f7472616e73706172656e742d6261636b67726f756e642d616972626e622d6c6f676f2d68642d706e672d646f776e6c6f61642e706e67)
 
 ## Project Description
 This is the first part of the AirBnB clone project. 
