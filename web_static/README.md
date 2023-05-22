@@ -1,4 +1,3 @@
-cLINTON aLOO
 # AirBnB clone - Web static
 
 ## Resources
